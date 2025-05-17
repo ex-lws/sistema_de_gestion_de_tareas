@@ -33,14 +33,14 @@ El proyecto está realizado para poder correr sin tener un gestor de base de dat
 ## Capturas de pantalla
 
 ### Pantalla de inicio del propgrama
-![Inicio](imgReadme\menu_principal_ss.jpg)
+![Inicio](imgReadme/menu_principal_ss.jpg)
 
 ### Agregar una tarea
-![Menú principal](imgReadme\agregar_tarea_ss.jpg)
+![Menú principal](imgReadme/agregar_tarea_ss.jpg)
 
 ### Poder ver las tareas pendientes
-![Ver tareas pendientes](imgReadme\ver_tareas_ss.jpg)
+![Ver tareas pendientes](imgReadme/ver_tareas_ss.jpg)
 
 ### Poder completar una tarea
-![Completar tareas](imgReadme\completar_tarea_ss.jpg)
+![Completar tareas](imgReadme/completar_tarea_ss.jpg)
 
