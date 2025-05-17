@@ -6,8 +6,7 @@ utilizar un gestor de bases de datos embebido dentro del proyecto como lo es SQL
 
 Practicar y probar por mi mismo estar tecnologías fue igualmente la meta al momento de desarrollar este sistema.
 
-La solución que tiene integrada ya una interfaz de usuario, creo yo, relativamente minimalista que parte de la versión en consola previamente
-desarrollada. 
+La solución tiene integrada una interfaz de usuario, creo yo, relativamente minimalista que parte de la versión en consola previamente desarrollada. 
 
 ## Características
 - Menu de selección para poder navegar entre las funciones del sistema.
@@ -32,7 +31,7 @@ El proyecto está realizado para poder correr sin tener un gestor de base de dat
 
 ## Capturas de pantalla
 
-### Pantalla de inicio del propgrama
+### Pantalla de inicio del programa
 ![Inicio](imgReadme/menu_principal_ss.jpg)
 
 ### Agregar una tarea
